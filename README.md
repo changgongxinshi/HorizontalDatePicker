@@ -8,5 +8,8 @@ android 自定义横向年月日期选择控件
 
 3.暂不支持滚动选择时间
 
-![https://github.com/changgongxinshi/HorizontalDatePicker/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/pic1.png]
-![https://github.com/changgongxinshi/HorizontalDatePicker/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/pic2.png]
+
+![image](https://github.com/changgongxinshi/HorizontalDatePicker/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/pic1.png) 
+![image](https://github.com/changgongxinshi/HorizontalDatePicker/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/pic2.png)
+
+
